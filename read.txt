@@ -5,4 +5,7 @@
 
 
 Тут содержится информация для работы с Git через консоль: https://htmlacademy.ru/blog/boost/frontend/git-console
-л
+
+
+после некоторых изменений
+
